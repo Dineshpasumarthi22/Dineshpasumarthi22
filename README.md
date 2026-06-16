@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Dinesh 👋
 
-<!--
-**Dineshpasumarthi22/Dineshpasumarthi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science and aiml  Student
 
-Here are some ideas to get you started:
+Intrested in Data analytics and software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- c++
+- PowerBi
+- HTML/CSS
+- Excel
+- Powerplatforms
+- SQL
+- Git & GitHub
+- DSA
+
+## Projects
+### FeedMind
+### Tcn- anamoly detection
+### primevideo Dashboard
+### LeetCode Solutions
+
+
+## Certifications
+
+Microsoft pl600 and pl400, 
+Snowflke sql, 
+ai skilling IBM, 
+Claude anthropic, 
+Python, 
+Oracle, 
+Git skillup Gfg
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/dinesh-pasumarthi/
+
+Email: pasumarthidinesh22@gmail.com
