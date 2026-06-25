@@ -8,7 +8,7 @@ Intrested in Data analytics and software development
 - Python
 - c++
 - PowerBi
-- HTML/CSS
+- HTML/CSS/Js
 - Excel
 - Powerplatforms
 - SQL
