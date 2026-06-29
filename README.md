@@ -19,7 +19,7 @@ Intrested in Data analytics and software development
 ### FeedMind
 ### Tcn- anamoly detection
 ### primevideo Dashboard
-### LeetCode Solutions
+
 
 
 ## Certifications
